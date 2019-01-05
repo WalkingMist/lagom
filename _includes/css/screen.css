@@ -64,6 +64,13 @@ a:visited {
 table {
   font-size: inherit;
   font: 100%;
+  margin: 1em 0;
+}
+
+td {
+  padding: 12px 15px;
+  text-align: left;
+  border-bottom: 1px solid #e1e1e1
 }
 
 img {

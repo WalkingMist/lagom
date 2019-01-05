@@ -5,12 +5,12 @@ highlight_color: '#3498db'
 
 # Profile links on the left sidebar, leave blank to ignore
 social:
-  github: swanson
+  github: walkingmist
   #bitbucket: philipj
-  hacker_news: swanson
+  #hacker_news: swanson
   #stackexchange: 348619
   #stackoverflow: 348619
-  twitter: _swanson
+  #twitter: _swanson
   #facebook: zuck
   #tumblr: animalygifs
   #linkedin: philipjagielski
@@ -19,12 +19,13 @@ social:
   #flickr: johndoe
 
 # "Hi, I'm _______"
-name: Matt Swanson
-email: test@example.com
-tagline: "weak opinions, strongly held"
+name: Paul Lee
+email: paul@walkingmist.com
+tagline: "Freelance developer based in Cambridge, UK, specialising in Microsoft Technologies."
+avatar_url: "https://scontent-lht6-1.xx.fbcdn.net/v/t1.0-1/c0.3.114.114a/1979719_10152271612420180_118775188_n.jpg?_nc_cat=109&_nc_ht=scontent-lht6-1.xx&oh=35fc8787d4debc66054799cd5e06796a&oe=5C98F1C3"
 
 # Google Analytics key, leave blank to ignore
-google_analytics_key: UA-xxxx-x
+google_analytics_key: 
 
 # Toggle "Postings are my own" disclaimer in footer
 show_disclaimer: true
