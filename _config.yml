@@ -1,5 +1,6 @@
 # General Jekyll Config
 highlighter: rouge
-url: http://example.com
+url: https://walkingmist.github.io
+disqus: walkingmist
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
