@@ -99,7 +99,6 @@
 	a:hover, a:focus { color: #000; }
 	p a, p a:visited { line-height: inherit; }
 
-
 /* #Lists
 ================================================== */
 	ul, ol { margin-bottom: 20px; }
@@ -116,6 +115,20 @@
 	li { line-height: 18px; margin-bottom: 12px; }
 	ul.large li { line-height: 21px; }
 	li p { line-height: 21px; }
+
+	.list-seperator li {
+		list-style: none;
+		margin: 5px 0;
+	}
+
+	.list-seperator li > a i {
+		width: 56px;
+		height: 28px;
+		text-align: center;
+		line-height: 28px;
+		font-size: 20px;
+	  }
+
 
 /* #Images
 ================================================== */
@@ -324,7 +337,14 @@
 	legend span {
 		font-weight: normal;
 		font-size: 13px;
-		color: #444; }
+		color: #444; }	
+	.list-seperator li > a i {
+	  width: 56px;
+	  height: 28px;
+	  text-align: center;
+	  line-height: 28px;
+	  font-size: 20px;
+	}
 
 /* Table
 ================================================== */
