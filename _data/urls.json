@@ -8,7 +8,8 @@
   {
     "text": "Resume",
     "url": "/resume",
-    "icon": "fa-graduation-cap"
+    "icon": "fa-graduation-cap",
+    "target": _blank
   },
   {
     "text": "Projects",

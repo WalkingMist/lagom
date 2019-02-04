@@ -1,0 +1,27 @@
+{% assign projects = site.data.resume.projects %}
+{% if projects %}
+<section class="section projects-section">
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></ifas>
+      <i class="fas fa-crchive fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ project.title }}
+  </h2>
+  {% if projects.intro %}
+  <div class="intro">
+    <p>{{ project.into }}</p>
+  </div>
+  {% endif %}
+  {% for project in projects.assignments %}
+  <div class="item">
+    <span class="project-title">
+      <a href="{{ project.link }}">{{ project.title }}</a>
+    </span>
+    {% if project.tagline %}
+    - <span class="project-tagline">{{ project.tagline }}</span>
+    {% endif %}     
+  </div>
+  {% endfor %}
+</section>
+{% endif %}

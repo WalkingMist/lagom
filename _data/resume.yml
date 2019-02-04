@@ -1,0 +1,162 @@
+sidebar:
+  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of sidebar
+
+  # Profile information
+  name: Paul Lee
+  tagline: Full Stack Developer
+  avatar: profile.jpg # place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+  # Sidebar links
+  email: paul@walkingmist.com
+  phone: +44 7736735654
+  website: walkingmist.github.io
+  linkedin: paul-lee-07980325
+  github: walkingmist
+  gitlab:
+  bitbucket:
+  twitter:
+  stack-overflow: 4904749/paul-lee
+  codewars:
+  goodreads:
+
+  languages:
+    - idiom: English
+      level: Professional
+    - idiom: Chinese
+      level: Native
+    - idiom: Cantonese 
+      level: Native
+
+  interests:
+    - item: Barbershop Singing
+      link: www.singbarbershop.com
+    - item: Cycling
+      link:
+    - item: Badminton
+      link:
+    
+career-profile:
+    title: Career Profile
+    summary: |
+      Driven software developer with 15+ years' experience in delivering complete solutions. 
+
+education:
+    - degree: BEng in Electronics and Software Engineering
+      university: University of Birmingham
+      time: 1997 - 2000
+      details: |
+        Describe your study here...
+
+          - Bullet point
+          - Bullet point
+
+experiences:
+    - role: Founder
+      time: 2014 - Current
+      company: Walkingmist Solutions Limited, Hong Kong
+      details: |-
+        Offer IT solutions and support for clients ranging from structural networking to custom software development. 
+
+        Key projects included:
+        - Office network design and implementation at my local church office
+        - Web Applications using Microsoft / Open Source technologies (i.e.: ASP .NET MVC, NetCore 2, Angular 2+) and general IT support for a small startup local businesses
+
+    - role: Business Information System Consultant
+      time: 2015 - 2017
+      company: TradeLink Technologies, Hong Kong
+      details: |-
+        Recruited to revamp the internal systems for Data Customistion team to improve capacity, flexibility and accuracy. 
+        
+        Archivement Highlights:
+        - Data customisation design and implementation between data sources (EDI, XML, CSV and Relational Databases)
+        - Delivered the initial studies on existing platform and formulate a new architecture which introduces Messaging and Microservices into the mix
+        - Internal process improvements such as making new tools to automate part of the error handling procedure
+        - Delivered an online order management web application commissioned by a client to help them communicate better with their customers
+        - Delivered data system integrations bewteen TradeLink and other major vendors
+        - Shared technical know-how(s) with team members  
+
+    - role: Analyst Programmer
+      time: 2011 - 2014
+      company: Automated Systems Limited, Hong Kong
+      details: |-
+        Assigned to the Hospital Authority Information Technology Service (HAITS) in Hong Kong to develop the Electronic Health Record (eHR) systems. eHR is the upcoming government lead public service where patients' health records can be shared between different health care providers on a voluntary basis.
+        
+        Archivement Highlights:
+        - Design and develop Notification Delivery Service to deliver updates to users of eHR via email, SMS or mail merge channels
+        - Test and debug some of the user authentication services
+        - Execute scripted tests on behavor of clients
+        - Gained experience in designing and developing large public service
+
+    - role: Programmer II
+      time: 2010 - 2011
+      company: Funmobile, Hong Kong
+      details: |-
+        Being part of a team that design, develop and maintain a mobile payment platform which spanned more than 50 countries to 1.9 billion potential customers.
+        
+        Archivement Highlights:
+        - As a team effort, delivered system intgrations with other global leading mobile payment service providers to further strengthen the company's position
+        - Delivered a feasibility study with success into HornetQ as the messaging technology in the next generation of the payment processing platform
+        - Delivered reports on research into the use of Digital Signature and Certificate 
+
+    - role: Research and Development
+      time: 2009 - 2010
+      company: Elegant Cyber Cafe, Malaysia
+      details: |-
+        Was invited by my brother to join him in Malaysia to operate this medium size internet cafe.
+        
+        Archivement Highlights:
+        - In-charged of the operation and maintainance a network of 60 to 70 PC(s) 
+        - Successfully rolled-out a network updgrade that are more stable, flexible and can provide higher capacity
+        - Implemented a rolling schedule to help maintain the PC(s) within the network
+        - Supervised junior staffs to carry out PC maintainance tasks
+
+    - role: Software Developer
+      time: 2005 - 2008
+      company: Hyperknowledge Limited, Cambridge, UK
+      details: |-
+        - Hyperknowledge (www.hyperknowledge.com), IT consultancy based in Cambridge, UK with sales office in United States. 
+        - Research and development of business solutions focusing on Knowledge Management and related applications including web application, Plug-in modules from simple Process Automation to Business Processes Optimisation.
+        - Research and Development work was divided into features which involved areas from User Interface Design to the back-end of Data Services. 
+        - Picked up a wide range of different skills involved throughout the software life cycle. 
+        - NASA, Shell, Citi Group and Credit Suisse were amount the list of clients.
+
+    - role: Customer Service and IT Support
+      time: 2002 - 2005
+      company: Ying Wah Travel Service, Birmingham, UK
+      details: |-
+        - Ying Wah Travel Service is a Chinese Travel agency
+        - Support the IT infrastructure of the company
+        - Implement a small office network, sourcing workstations and network equipments and services from different vendors.
+        - Assist ticket and packaged holiday sales and resolving customer enquiries.
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Angular 2+
+        level: 60%
+      - name: AngularJs
+        level: 60% 
+      - name: ASP.NET & ASP.NET MVC
+        level: 70%
+      - name: C#
+        level: 85%
+      - name: Docker 
+        level: 20%
+      - name: HTML/CSS
+        level: 70%
+      - name: Java
+        level: 60%
+      - name: Javascript
+        level: 60%
+      - name: VB.NET 
+        level: 70%
+      - name: SQL
+        level: 70%
+      - name: WPF
+        level: 50%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a gref="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    
