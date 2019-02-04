@@ -22,7 +22,7 @@ social:
 name: Paul Lee
 email: paul@walkingmist.com
 tagline: "Freelance developer based in Cambridge, UK, specialising in Microsoft technologies."
-avatar_url: "https://scontent-lht6-1.xx.fbcdn.net/v/t1.0-1/c0.3.114.114a/1979719_10152271612420180_118775188_n.jpg?_nc_cat=109&_nc_ht=scontent-lht6-1.xx&oh=35fc8787d4debc66054799cd5e06796a&oe=5C98F1C3"
+avatar_url: "/assets/img/profile.jpg"
 
 # Google Analytics key, leave blank to ignore
 google_analytics_key: 
