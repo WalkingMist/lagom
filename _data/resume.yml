@@ -46,10 +46,6 @@ education:
       university: University of Birmingham
       time: 1997 - 2000
       details: |
-        Describe your study here...
-
-          - Bullet point
-          - Bullet point
 
 experiences:
     - role: Founder
@@ -66,15 +62,15 @@ experiences:
       time: 2015 - 2017
       company: TradeLink Technologies, Hong Kong
       details: |-
-        Recruited to revamp the internal systems for Data Customistion team to improve capacity, flexibility and accuracy. 
+        Responsible to lead and improve internal systems for Data Customisation team to increase in capacity, flexibility and accuracy.
         
         Archivement Highlights:
-        - Data customisation design and implementation between data sources (EDI, XML, CSV and Relational Databases)
-        - Delivered the initial studies on existing platform and formulate a new architecture which introduces Messaging and Microservices into the mix
-        - Internal process improvements such as making new tools to automate part of the error handling procedure
-        - Delivered an online order management web application commissioned by a client to help them communicate better with their customers
-        - Delivered data system integrations bewteen TradeLink and other major vendors
-        - Shared technical know-how(s) with team members  
+        - Performed the initial studies on existing platform and presented to the respective team and management
+        - Presented road map beased on the various technologies that can be used to address the pain points
+        - Showed initative to improve the internal processes by building a POC for new tools that can automate error logging and reporting
+        - Shared technical know-how(s) among the team members to improve design and implementation standards
+        - Successfully delivered an online web portal for order management commissioned by a multinational client to help them communicate effectively with their customers
+        - Lead efforts in desinging and implementing integrations between TradeLink and other major vendors and suppliers
 
     - role: Analyst Programmer
       time: 2011 - 2014
@@ -83,10 +79,11 @@ experiences:
         Assigned to the Hospital Authority Information Technology Service (HAITS) in Hong Kong to develop the Electronic Health Record (eHR) systems. eHR is the upcoming government lead public service where patients' health records can be shared between different health care providers on a voluntary basis.
         
         Archivement Highlights:
-        - Design and develop Notification Delivery Service to deliver updates to users of eHR via email, SMS or mail merge channels
-        - Test and debug some of the user authentication services
-        - Execute scripted tests on behavor of clients
-        - Gained experience in designing and developing large public service
+        - Worked with the client to design and develop a Notification Delivery Service to deliver updates to users of eHR via email, SMS or mail merge channels
+        - Responsible to design, execute and report on the findings of tests to some of the user authentication services
+        - Troubleshot and resolve issues within the user authentication system 
+        - Execute and reported the findings of scripted tests on behavor of clients
+        - Gained experience in designing and developing large public services
 
     - role: Programmer II
       time: 2010 - 2011
@@ -95,8 +92,8 @@ experiences:
         Being part of a team that design, develop and maintain a mobile payment platform which spanned more than 50 countries to 1.9 billion potential customers.
         
         Archivement Highlights:
-        - As a team effort, delivered system intgrations with other global leading mobile payment service providers to further strengthen the company's position
-        - Delivered a feasibility study with success into HornetQ as the messaging technology in the next generation of the payment processing platform
+        - As a team effort, delivered system integrations with other global leading mobile payment service providers to further strengthen the company's position
+        - Delivered a feasibility study with success into HornetQ as the messaging technology being used in the next generation of the payment processing platform
         - Delivered reports on research into the use of Digital Signature and Certificate 
 
     - role: Research and Development
@@ -107,7 +104,7 @@ experiences:
         
         Archivement Highlights:
         - In-charged of the operation and maintainance a network of 60 to 70 PC(s) 
-        - Successfully rolled-out a network updgrade that are more stable, flexible and can provide higher capacity
+        - Successfully designed and rolled-out a network updgrade with improved stability, flexiblilty and higher capacity
         - Implemented a rolling schedule to help maintain the PC(s) within the network
         - Supervised junior staffs to carry out PC maintainance tasks
 
@@ -115,17 +112,23 @@ experiences:
       time: 2005 - 2008
       company: Hyperknowledge Limited, Cambridge, UK
       details: |-
-        - Hyperknowledge (www.hyperknowledge.com), IT consultancy based in Cambridge, UK with sales office in United States. 
-        - Research and development of business solutions focusing on Knowledge Management and related applications including web application, Plug-in modules from simple Process Automation to Business Processes Optimisation.
-        - Research and Development work was divided into features which involved areas from User Interface Design to the back-end of Data Services. 
-        - Picked up a wide range of different skills involved throughout the software life cycle. 
-        - NASA, Shell, Citi Group and Credit Suisse were amount the list of clients.
+        Hyperknowledge (www.hyperknowledge.com), IT consultancy based in Cambridge, UK with sales office in United States. 
 
+        Project - Knowledge sharing web application www.hyperknowledge.com using Microsoft .Net, SQL database 
+
+        - Responsible for requirement analysis
+        - Responsible for feature design and development
+        - Involved in testing features and modules of the project
+        - Involved in exploration of new technologies
+        - Responsible for database and query design and implementation
+        - Reporting to team leader
+        
     - role: Customer Service and IT Support
       time: 2002 - 2005
       company: Ying Wah Travel Service, Birmingham, UK
       details: |-
-        - Ying Wah Travel Service is a Chinese Travel agency
+        Ying Wah Travel Service is a Chinese Travel agency based in Brimingham, UK
+
         - Support the IT infrastructure of the company
         - Implement a small office network, sourcing workstations and network equipments and services from different vendors.
         - Assist ticket and packaged holiday sales and resolving customer enquiries.
@@ -144,15 +147,17 @@ skills:
         level: 85%
       - name: Docker 
         level: 20%
+      - name: Git
+        level: 85%
       - name: HTML/CSS
         level: 70%
       - name: Java
         level: 60%
       - name: Javascript
         level: 60%
-      - name: VB.NET 
-        level: 70%
       - name: SQL
+        level: 70%
+      - name: VB.NET 
         level: 70%
       - name: WPF
         level: 50%
