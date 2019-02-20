@@ -147,15 +147,17 @@ skills:
         level: 85%
       - name: Docker 
         level: 20%
+      - name: Git
+        level: 85%
       - name: HTML/CSS
         level: 70%
       - name: Java
         level: 60%
       - name: Javascript
         level: 60%
-      - name: VB.NET 
-        level: 70%
       - name: SQL
+        level: 70%
+      - name: VB.NET 
         level: 70%
       - name: WPF
         level: 50%
