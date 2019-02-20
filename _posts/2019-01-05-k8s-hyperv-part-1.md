@@ -18,6 +18,8 @@ This series of articles records my journey in setting up my first Kubernetes clu
 
 I will update and expand the series as I come across new areas during my pursue of the CI / CD pipeline. There will also be a seperate series of articles about on setting up GitLab CI.
 
+---
+
 ## Hardware Setup
 
 Let's have a look at the hardware in which all of these will be running on:
@@ -236,3 +238,5 @@ As the last section concludes this part of the setup, lets look at where we stan
 Now, I have a working set of VM(s) that have been prepared for Kubernetes installation. The steps can also be adapted to physical nodes instead of VM(s).
 
 Next time, we will have a look at initialising the Kubernetes Master and Worker nodes. Then we will join the nodes together into a cluster.
+
+---
