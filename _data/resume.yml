@@ -55,8 +55,11 @@ experiences:
         Offer IT solutions and support for clients ranging from structural networking to custom software development. 
 
         Key projects included:
-        - Office network design and implementation at my local church office
-        - Web Applications using Microsoft / Open Source technologies (i.e.: ASP .NET MVC, NetCore 2, Angular 2+) and general IT support for a small startup local businesses
+        - Project designed and implemented for a Food Delivery business which includes user and business account management, location services, order and payment processing, ticket management and notifications delivered to users
+        - Prepared and submited a bid for a project with a financial service provider that involves requirement gathering, high level solutions design, pricing and initial project management
+        - Design and deliver Web Applications using Microsoft / Open Source technologies (i.e.: ASP .NET MVC, NetCore 2, Angular 2+, RESTful API, EntityFramework, SQL Server) 
+        - General IT support for individuals and small local businesses
+        - Office network design and implementation for my local church office
 
     - role: Business Information System Consultant
       time: 2015 - 2017
