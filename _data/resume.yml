@@ -23,8 +23,8 @@ sidebar:
   languages:
     - idiom: English
       level: Professional
-    - idiom: Chinese
-      level: Native
+    - idiom: Mandarin
+      level: Professional
     - idiom: Cantonese 
       level: Native
 
@@ -42,18 +42,13 @@ career-profile:
       Driven software developer with 15+ years' experience in delivering complete solutions. 
 
 education:
-    - degree: MSc in Electronic Commerce
-      university: Coventry University
-      time: 2000 - 2001 [Incomplete]
-      details: |
-
     - degree: BEng in Electronics and Software Engineering
       university: University of Birmingham
       time: 1997 - 2000
       details: |
 
 experiences:
-    - role: Founder
+    - role: Freelancer
       time: 2014 - Current
       company: Walkingmist Solutions Limited, Hong Kong
       details: |-
@@ -70,15 +65,16 @@ experiences:
       time: 2015 - 2017
       company: TradeLink Technologies, Hong Kong
       details: |-
-        Responsible to lead and improve internal systems for Data Customisation team to increase in capacity, flexibility and accuracy.
+        TradeLink Technologies Limited provides logistic management platform between apparel buyers, vendors and other thrid party logisitic partners. I was responsible to lead and improve internal systems for Data Customisation team to increase in capacity, flexibility and accuracy.
         
         Archivement Highlights:
         - Performed the initial studies on existing platform and presented to the respective team and management
         - Presented road map beased on the various technologies that can be used to address the pain points
         - Showed initative to improve the internal processes by building a POC for new tools that can automate error logging and reporting
         - Shared technical know-how(s) among the team members to improve design and implementation standards
-        - Successfully delivered an online web portal for order management commissioned by a multinational client to help them communicate effectively with their customers
+        - Successfully designed and implementated an online web portal for order management commissioned by a multinational client to help them communicate effectively with their customers
         - Lead efforts in desinging and implementing integrations between TradeLink and other major vendors and suppliers
+        - Troubleshot and resolve issues arrisen during the data customisations and transformations of customer data 
 
     - role: Analyst Programmer
       time: 2011 - 2014
@@ -90,7 +86,7 @@ experiences:
         - Worked with the client to design and develop a Notification Delivery Service to deliver updates to users of eHR via email, SMS or mail merge channels
         - Responsible to design, execute and report on the findings of tests to some of the user authentication services
         - Troubleshot and resolve issues within the user authentication system 
-        - Execute and reported the findings of scripted tests on behavor of clients
+        - Execute and reported the findings of scripted tests on behalf of clients
         - Gained experience in designing and developing large public services
 
     - role: Programmer II
@@ -100,11 +96,11 @@ experiences:
         Being part of a team that design, develop and maintain a mobile payment platform which spanned more than 50 countries to 1.9 billion potential customers.
         
         Archivement Highlights:
-        - As a team effort, delivered system integrations with other global leading mobile payment service providers to further strengthen the company's position
+        - Delivered system integrations with other global leading mobile payment service providers to further strengthen the company's position
         - Delivered a feasibility study with success into HornetQ as the messaging technology being used in the next generation of the payment processing platform
         - Delivered reports on research into the use of Digital Signature and Certificate 
 
-    - role: Research and Development
+    - role: Research and Development Manager
       time: 2009 - 2010
       company: Elegant Cyber Cafe, Malaysia
       details: |-
